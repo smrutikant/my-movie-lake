@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-movie-lake/static/css/main.d66a9dc5.css",
-    "main.js": "/my-movie-lake/static/js/main.00798a25.js",
+    "main.css": "/my-movie-lake/static/css/main.371b1353.css",
+    "main.js": "/my-movie-lake/static/js/main.48f0be02.js",
     "static/js/787.ac04ab78.chunk.js": "/my-movie-lake/static/js/787.ac04ab78.chunk.js",
     "index.html": "/my-movie-lake/index.html",
-    "main.d66a9dc5.css.map": "/my-movie-lake/static/css/main.d66a9dc5.css.map",
-    "main.00798a25.js.map": "/my-movie-lake/static/js/main.00798a25.js.map",
+    "main.371b1353.css.map": "/my-movie-lake/static/css/main.371b1353.css.map",
+    "main.48f0be02.js.map": "/my-movie-lake/static/js/main.48f0be02.js.map",
     "787.ac04ab78.chunk.js.map": "/my-movie-lake/static/js/787.ac04ab78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d66a9dc5.css",
-    "static/js/main.00798a25.js"
+    "static/css/main.371b1353.css",
+    "static/js/main.48f0be02.js"
   ]
 }
